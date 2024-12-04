@@ -15,3 +15,4 @@ Christopher
   - [ ] Savoir commenter dans une page HTML
   - [ ] Découvrir le principe de parents/enfants
   - [ ] Découvrir le HTML5 sémantique
+- [ ] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
