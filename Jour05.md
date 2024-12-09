@@ -4,24 +4,24 @@ Yassen
 
 ## Jour 5 (Vendredi 6 Décembre 2024) :
 
-- [ ] Créer son premier repo Github
-- [ ] Découverte du Markdown :
-  - [ ] Comprendre l'intérêt du Markdown
-  - [ ] Découvrir les balises de bases :
-    - [ ] Titres
-    - [ ] Images
-    - [ ] Listes
-    - [ ] Formatage de texte (italique, souligné, gras)
-    - [ ] Code
-    - [ ] Citations
-    - [ ] Tableaux
-    - [ ] Liens
-  - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-- [ ] Comprendre l'intérêt des raccourcis clavier
-  - [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
-    - [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-    - [ ] Terminal (fenêtres, onglets, commandes)
-- [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion (Terminal, Git, Raccourcis Clavier, Markdown)
+- [X] Créer son premier repo Github
+- [X] Découverte du Markdown :
+  - [X] Comprendre l'intérêt du Markdown
+  - [X] Découvrir les balises de bases :
+    - [X] Titres
+    - [X] Images
+    - [X] Listes
+    - [X] Formatage de texte (italique, souligné, gras)
+    - [X] Code
+    - [X] Citations
+    - [X] Tableaux
+    - [x] Liens
+  - [X] Faire le parcours "how-to-markdown" (Nodeschool.io)
+- [X] Comprendre l'intérêt des raccourcis clavier
+  - [X] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
+    - [X] Navigateur (fenêtres, onglets, navigation, etc …)
+    - [X] Terminal (fenêtres, onglets, commandes)
+- [X] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion (Terminal, Git, Raccourcis Clavier, Markdown)
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
 
