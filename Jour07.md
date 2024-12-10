@@ -12,5 +12,5 @@ Christopher
 - [ ] Créer son premier formulaire HTML
 - [ ] Brief Formulaire (avec répertoire git)
 - [ ] Brief Boulanger  (avec répertoire git)
-- [ ] savoir faire un rendu sur Simplonline
+- [X] savoir faire un rendu sur Simplonline
 
