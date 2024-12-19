@@ -6,4 +6,4 @@ Christopher
 
 ### exercices html/css
 
-- [ ] refaire les templates données
+- [X] refaire les templates données
